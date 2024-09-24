@@ -13,7 +13,7 @@ Check out the live demo [here](#).
 
 ## Screenshots 📸
 ### Home Page:
-![Home Page](image/a.png)
+![Home Page](image/a.jpeg)
 
 
 ### Search Results:
