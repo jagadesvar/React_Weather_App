@@ -8,16 +8,15 @@ A simple and responsive weather app built using *React* and *Vite*. It fetches r
 - Dynamically updates the weather based on the search input.
 - Responsive design that works on mobile, tablet, and desktop.
 
-## Demo 🚀
-Check out the live demo [here](#).
 
 ## Screenshots 📸
 ### Home Page:
 ![Home Page](image/a.jpeg)
 
 
-### Search Results:
-![Search Results](path_to_image.png)
+### Search Results With Error Handling:
+![Search Results](image/b.jpeg)
+![Search Results](image/c.jpeg)
 
 ## Tech Stack 🛠️
 - *React*: Front-end library for building user interfaces.
